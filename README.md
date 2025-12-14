@@ -19,7 +19,7 @@ Quick navigation buttons to detailed analysis pages
 Purpose:
 To give stakeholders an instant understanding of workforce size and dashboard scope.
 
-📈 Executive Overview
+📈 Executive Overview-
 This page focuses on leadership-level KPIs and trends.
 
 Insights include:
@@ -28,7 +28,7 @@ Attrition by department and job role
 Headcount trends over time
 Business value: Helps HR leaders identify high-risk departments and prioritize retention strategies.
 
-😊 Satisfaction Analysis
+😊 Satisfaction Analysis-
 This page analyzes employee engagement and satisfaction levels.
 
 Insights include:
@@ -37,7 +37,7 @@ Work-life balance trends
 Relationship between satisfaction and attrition
 Business value: Supports initiatives to improve employee experience and reduce turnover.
 
-💼 Career & Compensation Analysis
+💼 Career & Compensation Analysis-
 This page evaluates compensation structures and career progression.
 
 Insights include:
@@ -46,17 +46,17 @@ Compensation vs experience
 Career growth patterns
 Business value: Helps ensure pay equity and improve talent retention.
 
-🛠 Tools & Skills Used
+🛠 Tools & Skills Used-
 Power BI
 DAX
 Data Modeling
 Data Visualization
 HR Analytics
 
-📂 Screenshots
+📂 Screenshots-
 All dashboard screenshots are available in the /screenshots folder for visual reference.
 
-👤 Author
+👤 Author-
 Moulika Viyyapu
 
 
